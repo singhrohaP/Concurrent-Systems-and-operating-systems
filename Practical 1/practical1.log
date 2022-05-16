@@ -1,0 +1,20 @@
+Creating thread 0
+Creating thread 1
+Creating thread 2
+Creating thread 3
+Creating thread 4
+Creating thread 5
+
+1: Hello World, from singhrop!
+
+0: Hello World, from singhrop!
+
+2: Hello World, from singhrop!
+
+3: Hello World, from singhrop!
+
+5: Hello World, from singhrop!
+
+4: Hello World, from singhrop!
+
+All threads done by singhrop, x = 2
